@@ -1,0 +1,7 @@
+.DS_*
+._.DS_*
+**/.DS_*
+**/._.DS_*
+.cache
+dist
+node_modules/**
